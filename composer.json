@@ -1,0 +1,22 @@
+{
+    "name": "thoma/digital-cep",
+    "description": "Buscador de CEP",
+    "license": "MIT",
+    "autoload": {
+        "psr-0": {
+            "Search": "src/"
+        },
+        "psr-4": {
+            "Thoma\\DigitalCep\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Thomaz Souza",
+            "email": "thomazfelipe35@hotmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.2.0"
+    }
+}
